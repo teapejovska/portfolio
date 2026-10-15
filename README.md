@@ -1,56 +1,42 @@
 # Tea Pejovska | Personal Portfolio
 
-Welcome to my personal portfolio website!
+Welcome to my personal portfolio!
 
-I'm Tea Pejovska, a Computer Science student at the Faculty of Computer Science and Engineering (FINKI), Ss. Cyril and Methodius University in Skopje.
+I'm **Tea Pejovska**, a Computer Science student at the **Faculty of Computer Science and Engineering (FINKI)**, Ss. Cyril and Methodius University in Skopje, North Macedonia.
 
-This portfolio showcases my technical skills, academic background, and software development projects.
+I'm interested in software development, problem-solving, and building practical applications. I continuously develop my technical skills through academic projects, personal work, and collaborative initiatives.
 
- Live Website
+## Live Portfolio
 
-**[View My Portfolio](https://portfolio-tea16.vercel.app/)**
+**[Visit My Portfolio – www.teapejovska.dev](https://www.teapejovska.dev/)**
 
- Tech Stack
+## About This Project
 
-- **Framework:** Next.js
-- **Language:** TypeScript
-- **UI Library:** React
-- **Styling:** Tailwind CSS
-- **Deployment:** Vercel
+This is my personal portfolio website, created to showcase my academic background, technical skills, and software development projects.
 
- About the Project
+It provides an overview of my experience, the technologies I've worked with, and my ongoing development as an aspiring software engineer.
 
-The purpose of this portfolio is to introduce myself as an aspiring software developer and provide an overview of my technical background and projects.
+## Tech Stack
 
-It serves as a central place where recruiters, developers, and potential collaborators can learn more about my work.
+- **Next.js** – React framework
+- **React** – Component-based user interfaces
+- **TypeScript** – Type-safe JavaScript development
+- **Tailwind CSS** – Styling and layout
 
- Getting Started
+## Features
 
-To run the project locally:
+- Modern, clean interface
+- Personal introduction and academic background
+- Overview of technical skills
+- Software development project showcase
+- Contact information and social links
 
-1. Clone the repository:
+## Contact
 
-   `git clone https://github.com/teapejovska/portfolio.git`
-
-2. Navigate to the project directory:
-
-   `cd portfolio`
-
-3. Install dependencies:
-
-   `npm install`
-
-4. Start the development server:
-
-   `npm run dev`
-
-5. Open `http://localhost:3000` in your browser.
-
-Contact
-
+- **Portfolio:** [www.teapejovska.dev](https://www.teapejovska.dev/)
+- **GitHub:** [github.com/teapejovska](https://github.com/teapejovska)
 - **Email:** teapejovskaa1@gmail.com
-- **GitHub:** [teapejovska](https://github.com/teapejovska)
 
 ---
 
-*Built as part of my journey in software development.*
+⭐ *Thank you for visiting my portfolio!*
