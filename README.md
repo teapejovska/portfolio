@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Tea Pejovska | Personal Portfolio
 
-## Getting Started
+Welcome to my personal portfolio website!
 
-First, run the development server:
+I'm Tea Pejovska, a Computer Science student at the Faculty of Computer Science and Engineering (FINKI), Ss. Cyril and Methodius University in Skopje.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This portfolio showcases my technical skills, academic background, and software development projects.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+ Live Website
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**[View My Portfolio](https://portfolio-tea16.vercel.app/)**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+ Tech Stack
 
-## Learn More
+- **Framework:** Next.js
+- **Language:** TypeScript
+- **UI Library:** React
+- **Styling:** Tailwind CSS
+- **Deployment:** Vercel
 
-To learn more about Next.js, take a look at the following resources:
+ About the Project
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The purpose of this portfolio is to introduce myself as an aspiring software developer and provide an overview of my technical background and projects.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+It serves as a central place where recruiters, developers, and potential collaborators can learn more about my work.
 
-## Deploy on Vercel
+ Getting Started
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+To run the project locally:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Clone the repository:
+
+   `git clone https://github.com/teapejovska/portfolio.git`
+
+2. Navigate to the project directory:
+
+   `cd portfolio`
+
+3. Install dependencies:
+
+   `npm install`
+
+4. Start the development server:
+
+   `npm run dev`
+
+5. Open `http://localhost:3000` in your browser.
+
+Contact
+
+- **Email:** teapejovskaa1@gmail.com
+- **GitHub:** [teapejovska](https://github.com/teapejovska)
+
+---
+
+*Built as part of my journey in software development.*
