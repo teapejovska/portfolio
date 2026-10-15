@@ -39,4 +39,3 @@ It provides an overview of my experience, the technologies I've worked with, and
 
 ---
 
-⭐ *Thank you for visiting my portfolio!*
